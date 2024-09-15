@@ -1,2 +1,19 @@
-https://github.com/odoo/odoo.git odoo/17 17.0
-https://github.com/odoo/odoo.git odoo/saas-17 saas-17
+https://github.com/ingadhoc/account-payment.git ingadhoc/account-payment 15.0
+https://github.com/ingadhoc/account-financial-tools.git ingadhoc/account-financial-tools 15.0
+https://github.com/ingadhoc/account-payment.git ingadhoc/account-payment 15.0
+https://github.com/ingadhoc/aeroo_reports.git ingadhoc/aeroo_reports 15.0
+https://github.com/ingadhoc/argentina-sale.git ingadhoc/argentina-sale 15.0
+https://github.com/ingadhoc/odoo-argentina.git ingadhoc/odoo-argentina 15.0
+https://github.com/ingadhoc/odoo-argentina-ce.git ingadhoc/odoo-argentina-ce 15.0
+https://github.com/ingadhoc/stock.git ingadhoc/stock 15.0
+
+https://github.com/OCA/account-invoice-reporting.git oca/account-invoice-reporting 15.0
+https://github.com/OCA/partner-contact.git oca/partner-contact 15.0
+https://github.com/OCA/pos.git oca/pos 15.0
+https://github.com/OCA/product-attribute.git oca/product-attribute 15.0
+https://github.com/OCA/purchase-workflow.git oca/purchase-workflow 15.0
+https://github.com/OCA/reporting-engine.git oca/reporting-engine 15.0
+https://github.com/OCA/server-tools.git oca/server-tools 15.0
+https://github.com/OCA/stock-logistics-availability.git oca/stock-logistics-availability 15.0
+https://github.com/OCA/stock-logistics-workflow.git oca/stock-logistics-workflow 15.0
+https://github.com/OCA/web.git oca/web 15.0
