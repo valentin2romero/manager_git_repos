@@ -1,0 +1,2 @@
+https://github.com/odoo/odoo.git odoo/17 17.0
+https://github.com/odoo/odoo.git odoo/saas-17 saas-17
